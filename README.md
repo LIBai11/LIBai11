@@ -11,8 +11,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | TypeScript | HTML | CSS 
-- 🌐 &nbsp; WeChat Mini Program
+- 💻 &nbsp; JavaScript | TypeScript | WeChat Mini Program | HTML | CSS 
+- 🌐 &nbsp; WebPack | Vite
 - 🛢 &nbsp; Vue2 | Vue3
 - 🔧 &nbsp; WebStrom | Visual Studio code | Git
 
