@@ -25,6 +25,5 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LIBai11&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/LIBai11) -->
 
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
 ⭐️ From [LIBai11]([https://github.com/LIBai11](https://www.cnblogs.com/lkx666/))
